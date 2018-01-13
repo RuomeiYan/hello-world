@@ -1,2 +1,3 @@
 # hello-world
-Hello world!
+Hi Git, I am new here!
+Happy coding!
